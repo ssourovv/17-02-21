@@ -1,2 +1,2 @@
 This is a simple static website.
-![](img/readme_img.png)
+![](/img/readme_img.PNG)
